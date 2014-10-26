@@ -3,6 +3,12 @@ guid: 1f84956aeefd56d44a7988b8615bfe06
 TextureImporter:
   fileIDToRecycleName:
     21300000: Bats
+    21300002: Bats_0
+    21300004: Bats_1
+    21300006: Bats_2
+    21300008: Bats_3
+    21300010: Bats_4
+    21300012: Bats_5
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -26,13 +32,13 @@ TextureImporter:
   maxTextureSize: 1024
   textureSettings:
     filterMode: -1
-    aniso: -1
+    aniso: 1
     mipBias: -1
-    wrapMode: -1
+    wrapMode: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -43,6 +49,66 @@ TextureImporter:
   textureType: 8
   buildTargetSettings: []
   spriteSheet:
-    sprites: []
+    sprites:
+    - name: Bats_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 106
+        width: 109
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bats_1
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 103
+        width: 148
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bats_2
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 86
+        width: 106
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bats_3
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 6
+        width: 106
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bats_4
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1
+        width: 128
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bats_5
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 7
+        width: 97
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 
